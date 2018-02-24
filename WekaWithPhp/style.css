@@ -1,0 +1,17 @@
+body{
+	background-color: #1abc9c !important;
+}
+.jumbotron{
+	background-color: #ecf0f1 !important;
+}
+.sonuc{
+	margin-top:5%;
+}
+#sonucPozitif{
+	background-color: #2ecc71;
+	color: #fff;
+}
+#sonucNegatif{
+	background-color: #c0392b;
+	color: #fff;
+}

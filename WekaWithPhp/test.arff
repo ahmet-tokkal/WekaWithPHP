@@ -1,0 +1,45 @@
+@relation flag
+
+@attribute feature1 numeric
+@attribute feature2 numeric
+@attribute feature3 numeric
+@attribute feature4 numeric
+@attribute feature5 numeric
+@attribute feature6 numeric
+@attribute feature7 numeric
+@attribute feature8 numeric
+@attribute feature9 numeric
+@attribute feature10 numeric
+@attribute feature11 numeric
+@attribute feature12 numeric
+@attribute feature13 numeric
+@attribute feature14 numeric
+@attribute feature15 numeric
+@attribute feature16 numeric
+@attribute feature17 numeric
+@attribute feature18 numeric
+@attribute feature19 numeric
+@attribute feature20 numeric
+@attribute feature21 numeric
+@attribute feature22 numeric
+@attribute feature23 numeric
+@attribute feature24 numeric
+@attribute feature25 numeric
+@attribute feature26 numeric
+@attribute feature27 numeric
+@attribute feature28 numeric
+@attribute feature29 numeric
+@attribute feature30 numeric
+@attribute feature31 numeric
+@attribute feature32 numeric
+@attribute feature33 numeric
+@attribute feature34 numeric
+@attribute feature35 numeric
+@attribute feature36 numeric
+@attribute feature37 numeric
+@attribute feature38 numeric
+@attribute feature39 numeric
+@attribute feature40 numeric
+@attribute label {0,1}
+
+@data
